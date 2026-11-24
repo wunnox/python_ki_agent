@@ -1,0 +1,16 @@
+# Aussage : Reflexion
+Ich heisse Anna : Du heisst Anna
+Ich heisse Peter : Du heisst Peter
+Wir heissen Müller : Ihr heisst Müller
+Wir heissen Meier : Ihr heisst Meier
+Emma geht nach Berlin : Er/Sie geht nach Berlin
+Anna geht nach München : Er/Sie geht nach München
+Ich gehe nach München : Du gehst nach München
+Ich gehe nach Berlin : Du gehst nach Berlin
+Ich gehe nach Bern : Du gehst nach Bern
+Wir gehen nach Berlin : Ihr geht nach Berlin
+Wir gehen nach Bern : Ihr geht nach Bern
+Ich bin müde : Du bist müde
+Ich bin glücklich : Du bist glücklich
+Wir sind müde : Ihr seid müde
+Wir sind glücklich : Ihr seid glücklich
